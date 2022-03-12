@@ -1,4 +1,4 @@
-Project: Simple Online Bidding System using PHP/MySQLi with Source Code
+Project:art auction Bidding System using PHP/MySQLi 
 About
 The art auction Bidding System is a simple PHP project that provides bidding oganization or company's possible buyers bid with others within a period of time. This project only presents minimum or small scope only and the main purpose of this project is to create a bidding process through online. The system stores the category of the product and the products for auction. When creating the product for auction, the system requires the date and time which is used to automatically detect the buyer who wins in the bidding. 
 
